@@ -46,16 +46,16 @@ print $water1->mountain;
 
 //example 5
 
-public function myMethod( $argument, $another) {
-	stuff
+public function myMethod( $argument, $different) {
+	brah
 }
 
-public function myMethod( $argument, $another) {
-	stuff
+public function myMethod( $argument, $google) {
+	bruh
 }
 
-public function myMethod( $argument, $another) {
-	stuff
+public function myMethod( $argument, $hello) {
+	breh
 }
 
 //second email example 6
