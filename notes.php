@@ -37,5 +37,5 @@ class car{
 //example 4
 $bike1 = new Dog();
 print $dog1->name;
-
+k
 ?>
